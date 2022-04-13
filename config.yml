@@ -50,8 +50,8 @@ params:
 
   label:
     text: "Enilog"
-    icon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-250x250.png"
-    iconHeight: 35
+    icon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-500x500.png"
+    iconHeight: 30
 
   # profile-mode
   profileMode:
