@@ -49,8 +49,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-500x500.png"
+    text: "Enilog"
+    icon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-250x250.png"
     iconHeight: 35
 
   # profile-mode
