@@ -1,5 +1,5 @@
 baseURL: "https://eniamza.github.io"
-title: Enilog | Eni' Blog
+title: Enilog
 paginate: 5
 theme: PaperMod
 
@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Enilog | Eni' Blog
-  description: "Trips, Tricks, Wordaround, Analysis, Philosophy... Aye!"
+  description: "Trips, Tricks, Workarounds, Analysis, Philosophy... Aye!"
   keywords: [Blog, Hacks, Tips, Eniamza]
   author: Me
   # author: ["Me", "You"] # multiple authors
