@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Enilog | Eni' Blog
-  description: "Trips, Tricks, Workarounds, Analysis, Philosophy... Aye!"
+  description: "Trips, Tricks, Workarounds, Analysis, Philosophies... Aye!"
   keywords: [Blog, Hacks, Tips, Eniamza]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -70,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B... It's Eniamza"
-    Content: Let's take a dive in the Awesomoverse!
+    Title: "Hi there 🐱 ~ It's Eniamza"
+    Content: "Have you been thinking about how to use your toaster and turn it into a spaceship?\n\n\nWell probably not that, but my blog is dedicated to fullfill all your curiosities and beyond!"
 
   socialIcons:
     - name: twitter
