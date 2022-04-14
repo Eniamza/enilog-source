@@ -1,4 +1,4 @@
-baseURL: "https://eniamza.github.io"
+baseURL: "https://eniamza.github.io/"
 title: Enilog
 paginate: 5
 theme: PaperMod
@@ -41,7 +41,7 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableFingerprinting: true
     favicon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-500x500.png"
     favicon16x16: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-16x16.png"
     favicon32x32: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-32x32.png"
@@ -117,10 +117,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: Enilog
-      name: Enilog
-      url: https://eniamza.github.io
-      weight: 30
+#    - identifier: Enilog
+#      name: Enilog
+#      url: https://eniamza.github.io
+#      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
