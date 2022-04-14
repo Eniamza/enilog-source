@@ -1,4 +1,4 @@
-baseURL: "enilog-fgwso.ondigitalocean.app/"
+baseURL: "https://enilog-fgwso.ondigitalocean.app/"
 title: Enilog
 paginate: 5
 theme: PaperMod
